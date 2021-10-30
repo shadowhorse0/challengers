@@ -72,7 +72,7 @@ class App extends Component {
       console.log('buffer', this.state.buffer)
     }
   }
-
+  //upload images
   uploadImage = description => {
     console.log("Submitting file to ipfs...")
 
