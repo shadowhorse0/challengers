@@ -1,6 +1,6 @@
 ### Cool Stats
 
-<h1>Contributors</h1>
+<h1>Team Members</h1>
 <b>###Challengers###</b>
 <ul>
 <li>#Rushikesh Kantule</li>
